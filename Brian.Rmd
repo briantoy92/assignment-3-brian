@@ -1,0 +1,13 @@
+---
+title: "Brian"
+author: "Brian"
+date: "2/28/2021"
+output: html_document
+---
+
+#### Information about Me!
+
+* I was born in Albany, NY.
+* I have spent time living in the United States, Canada, Scotland, and Israel.
+* I like to do Les Mills group fitness classes.
+* I am currently reading "Vital Little Plans" which is a compilation of the short works of Jane Jacobs.

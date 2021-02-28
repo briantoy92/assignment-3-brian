@@ -1,0 +1,12 @@
+---
+title: "Assignment 3"
+author: "Brian"
+date: "2/28/2021"
+output: html_document
+---
+
+#### Collaborative and Reproducible Data Science in R Assignment 3
+
+Website Collaborators: Brian Toy and Matthew Pruden
+
+![This picture of a welcome mat is welcoming you to our website!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyiVoHGmIFI2xdIJtugmXZVhbuvCzebwwVD4sNuxg2ujLjYHUOynUNk6VX9ak864EqFwYEe0&usqp=CAc)
